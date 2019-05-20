@@ -17,7 +17,7 @@ class App extends Component {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Super hero
+            Let's make a payment
           </a>
         </header>
       </div>
